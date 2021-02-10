@@ -1,0 +1,2 @@
+D:\Artfx\C++\Dungeon\Dungeon\Debug\Dungeon.exe
+D:\Artfx\C++\Dungeon\Dungeon\Debug\Dungeon.pdb
